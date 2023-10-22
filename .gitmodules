@@ -1,0 +1,57 @@
+[submodule "repo/xo-cmake"]
+	path = repo/xo-cmake
+	url = git@github.com:Rconybea/xo-cmake.git
+[submodule "repo/refcnt"]
+	path = repo/refcnt
+	url = git@github.com:Rconybea/refcnt.git
+[submodule "repo/subsys"]
+	path = repo/subsys
+	url = git@github.com:Rconybea/subsys.git
+[submodule "repo/reflect"]
+	path = repo/reflect
+	url = git@github.com:Rconybea/reflect.git
+[submodule "repo/indentlog"]
+	path = repo/indentlog
+	url = git@github.com:Rconybea/indentlog.git
+[submodule "repo/randomgen"]
+	path = repo/randomgen
+	url = git@github.com:Rconybea/randomgen.git
+[submodule "repo/xo-ordinaltree"]
+	path = repo/xo-ordinaltree
+	url = git@github.com:Rconybea/xo-ordinaltree.git
+[submodule "repo/xo-pyutil"]
+	path = repo/xo-pyutil
+	url = git@github.com:Rconybea/xo-pyutil.git
+[submodule "repo/xo-pyreflect"]
+	path = repo/xo-pyreflect
+	url = git@github.com:Rconybea/xo-pyreflect.git
+[submodule "repo/xo-printjson"]
+	path = repo/xo-printjson
+	url = git@github.com:Rconybea/xo-printjson.git
+[submodule "repo/xo-pyprintjson"]
+	path = repo/xo-pyprintjson
+	url = git@github.com:Rconybea/xo-pyprintjson.git
+[submodule "repo/xo-callback"]
+	path = repo/xo-callback
+	url = git@github.com:Rconybea/xo-callback.git
+[submodule "repo/xo-webutil"]
+	path = repo/xo-webutil
+	url = git@github.com:Rconybea/xo-webutil.git
+[submodule "repo/xo-pywebutil"]
+	path = repo/xo-pywebutil
+	url = git@github.com:Rconybea/xo-pywebutil.git
+[submodule "repo/xo-reactor"]
+	path = repo/xo-reactor
+	url = git@github.com:Rconybea/xo-reactor.git
+[submodule "repo/xo-pyreactor"]
+	path = repo/xo-pyreactor
+	url = git@github.com:Rconybea/xo-pyreactor.git
+[submodule "repo/xo-simulator"]
+	path = repo/xo-simulator
+	url = git@github.com:Rconybea/xo-simulator.git
+[submodule "repo/xo-process"]
+	path = repo/xo-process
+	url = git@github.com:Rconybea/xo-process.git
+[submodule "repo/xo-websock"]
+	path = repo/xo-websock
+	url = git@github.com:Rconybea/xo-websock.git
