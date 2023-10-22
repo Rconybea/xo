@@ -1,0 +1,7 @@
+# symlink to ${mybuilddirectory}/compile_commands.json for LSP
+compile_commands.json
+# lsp keeps state here
+.cache
+# typical build directories
+build
+ccov

@@ -12,6 +12,7 @@ A set of libraries for complex event processing
 ## Getting Started
 
 ### build + install
+
 ```
 $ cd xo
 $ mkdir build
@@ -21,6 +22,9 @@ $ cmake -DCMAKE_INSTALL_PREFIX=${PREFIX} ..
 $ make -j
 $ make install
 ```
+
+This builds and installs all `XO` projects:  `reflect`, `xo-ordinaltree`, `xo-pyreactor` etc.
+
 
 ### LSP support
 ```
