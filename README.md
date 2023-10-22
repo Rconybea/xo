@@ -25,6 +25,11 @@ $ make install
 
 This builds and installs all `XO` projects:  `reflect`, `xo-ordinaltree`, `xo-pyreactor` etc.
 
+### run unit tests
+```
+$ cd xo/build
+$ ctest
+```
 
 ### LSP support
 ```

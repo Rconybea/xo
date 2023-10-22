@@ -31,6 +31,19 @@ set(XO_UMBRELLA_BINARY_DIR ${CMAKE_BINARY_DIR})
 set(CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR}/repo/xo-cmake/cmake)
 
 # ----------------------------------------------------------------
+# unit test setup
+
+enable_testing()
+# enable code coverage for all executables+libraries
+# (when configured with -DCODE_COVERAGE=ON)
+#
+#add_code_coverage()
+#add_code_coverage_all_targets(
+#  EXCLUDE
+#  /nix/store/*
+#  ${PROJECT_SOURCE_DIR}/utest/*)
+
+# ----------------------------------------------------------------
 # global c++ settings.
 
 enable_language(CXX)
