@@ -90,3 +90,7 @@ add_subdirectory(repo/xo-pyreactor)
 add_subdirectory(repo/xo-simulator)
 add_subdirectory(repo/xo-process)
 add_subdirectory(repo/xo-websock)
+add_subdirectory(repo/xo-statistics)
+add_subdirectory(repo/xo-kalmanfilter)
+
+# ----------------------------------------------------------------
