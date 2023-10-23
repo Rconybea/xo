@@ -18,7 +18,7 @@ $ cd xo
 $ mkdir build
 $ cd build
 $ PREFIX=/usr/local # for example
-$ cmake -DCMAKE_INSTALL_PREFIX=${PREFIX} ..
+$ cmake -DCMAKE_INSTALL_PREFIX=${PREFIX} -DCMAKE_INSTALL_RPATH=${PREFIX}/lib ..
 $ make -j
 $ make install
 ```
