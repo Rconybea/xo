@@ -55,3 +55,9 @@
 [submodule "repo/xo-websock"]
 	path = repo/xo-websock
 	url = git@github.com:Rconybea/xo-websock.git
+[submodule "repo/xo-kalmanfilter"]
+	path = repo/xo-kalmanfilter
+	url = git@github.com:Rconybea/xo-kalmanfilter.git
+[submodule "repo/xo-statistics"]
+	path = repo/xo-statistics
+	url = git@github.com:Rconybea/xo-statistics.git
