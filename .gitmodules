@@ -61,3 +61,6 @@
 [submodule "repo/xo-statistics"]
 	path = repo/xo-statistics
 	url = git@github.com:Rconybea/xo-statistics.git
+[submodule "repo/xo-distribution"]
+	path = repo/xo-distribution
+	url = git@github.com:Rconybea/xo-distribution.git
