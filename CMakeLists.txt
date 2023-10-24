@@ -93,5 +93,6 @@ add_subdirectory(repo/xo-websock)
 add_subdirectory(repo/xo-statistics)
 add_subdirectory(repo/xo-kalmanfilter)
 add_subdirectory(repo/xo-distribution)
+add_subdirectory(repo/xo-pydistribution)
 
 # ----------------------------------------------------------------
