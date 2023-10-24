@@ -64,3 +64,6 @@
 [submodule "repo/xo-distribution"]
 	path = repo/xo-distribution
 	url = git@github.com:Rconybea/xo-distribution.git
+[submodule "repo/xo-pydistribution"]
+	path = repo/xo-pydistribution
+	url = git@github.com:Rconybea/xo-pydistribution.git
