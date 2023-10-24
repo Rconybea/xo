@@ -67,3 +67,6 @@
 [submodule "repo/xo-pydistribution"]
 	path = repo/xo-pydistribution
 	url = git@github.com:Rconybea/xo-pydistribution.git
+[submodule "repo/xo-pykalmanfilter"]
+	path = repo/xo-pykalmanfilter
+	url = git@github.com:Rconybea/xo-pykalmanfilter.git
