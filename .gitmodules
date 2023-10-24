@@ -73,3 +73,6 @@
 [submodule "repo/xo-pyprocess"]
 	path = repo/xo-pyprocess
 	url = git@github.com:Rconybea/xo-pyprocess.git
+[submodule "repo/xo-pywebsock"]
+	path = repo/xo-pywebsock
+	url = git@github.com:Rconybea/xo-pywebsock.git
